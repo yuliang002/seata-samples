@@ -1,0 +1,7 @@
+### 创建实例流程  ${roleName == 'HQ Top WS Manager'}
+GET http://127.0.0.1:8084/purchase/commit
+Content-Type: application/json###
+
+###
+GET http://127.0.0.1:8084/purchase/rollback
+Content-Type: application/json
